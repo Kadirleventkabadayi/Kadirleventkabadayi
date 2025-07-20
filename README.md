@@ -41,7 +41,7 @@ I'm a **Full Stack Developer** with a strong foundation in **frontend developmen
 ### 🏆 Achievements
 
 - 🎖️ _Certificate of High Honor_, Erciyes University – 2024–2025  
-  Student ID: 1030521031 | Verification Code: F9FDFD08 | Pin Code: 3626
+  Student ID: 1030521031 | Verification Code: F9FDFD08 | Pin Code: 3626 (https://bd.erciyes.edu.tr/)
 - 🎖️ Graduated with 3rd rank in department
 
 ---
